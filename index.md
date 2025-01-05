@@ -1,4 +1,3 @@
----
-title: Welcome to my blog
----
+# **Electric Warlock Blog**
 
+Blog for things I find cool. 
