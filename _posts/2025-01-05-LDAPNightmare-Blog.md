@@ -162,7 +162,10 @@ This was a pretty fun POC to test out, and shout out to SafeBreach for providing
 ## References
 
 https://www.safebreach.com/blog/ldapnightmare-safebreach-labs-publishes-first-proof-of-concept-exploit-for-cve-2024-49113/
+
 https://github.com/SafeBreach-Labs/CVE-2024-49113
+
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49113
+
 https://github.com/BoredHackerBlog/lazylab
 
